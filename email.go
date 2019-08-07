@@ -13,7 +13,7 @@ import (
 	"strings"
 
 	"github.com/pkg/errors"
-	"github.com/volatiletech/authboss"
+	"github.com/nymd/authboss"
 )
 
 // Email renderer for authboss, renders using html/template
